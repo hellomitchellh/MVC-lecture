@@ -2,9 +2,9 @@
 
 <img src='mvc-lecture.png' width='100%'>
 
-<h2> Contents</h2>
+<h2>Contents</h2>
 
-<p> Accompanying lecture slides for a software engineer presentation covering the MVC architectural paradigm</p>
+<p> Accompanying lecture slides for a software engineer presentation covering the MVC architectural paradigm.</p>
 <br>
  
 <h2>Topics Covered</h2>
@@ -12,7 +12,7 @@
 <ul>
  <li>Overview of what MVC is and what it is not</li>
  <li>Reasons for MVC popularity</li>
- <li>Comparison of code before & after implementation of MVC </li>
+ <li>Brief comparison of code before & after implementation of MVC </li>
  <li>Fleshing out the individual components of MVC</li>
  <li>Examples of code and MVC advantages in action</li>
 
@@ -21,8 +21,8 @@
 
 <br>
 
-<h2>Additional Topics to Incorporate for the future</h2>
+<h2>Additional Topics to Incorporate for the Future</h2>
 
-Time-permitting, it would be help cement lecture concepts if we could walk-through a mock setup before & after MVC code/folder organization.
+Time permitting, it would be helpful to cement lecture concepts if we could walk through a mock setup before & after MVC code, including the folder organization as well.
 
 <br>
